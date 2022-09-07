@@ -1,0 +1,3 @@
+name: services-elasticsearch-curator
+runtime: nodejs
+description: Elasticsearch Curator helps you curate, or manage your indices.
